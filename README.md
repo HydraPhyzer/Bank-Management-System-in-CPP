@@ -1,4 +1,4 @@
-# Bank-Management-System-in-C-
+# Bank-Management-System-in-CPP
 This is my Semester Project. This is Basically a Bank Management System Made In C++
 
 ==============================================
